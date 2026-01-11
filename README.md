@@ -19,7 +19,7 @@ An example of a day-ahead optimized schedule (January 15, 2021):
 
 ### Strategies PnL Details
 Details of three strategies PnL (January 15, 2021):
-![Strategies Detail](images/tableau_res.png "Strategies Comparison")
+![Strategies Detail](tableau_res.png)
 
 ### Strategies daily PnL
 Comparison of three strategies PnL over January:
@@ -161,5 +161,6 @@ uv sync
 
 # 3) Run
 uv run python main.py
+
 
 
