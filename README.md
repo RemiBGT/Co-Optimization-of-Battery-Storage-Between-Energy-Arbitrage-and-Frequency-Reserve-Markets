@@ -23,7 +23,7 @@ Details of three strategies PnL (January 15, 2021):
 
 ### Strategies daily PnL
 Comparison of three strategies PnL over January:
-![Strategies PnL](images/PnL_days.jpeg "Strategies Comparison")
+![Strategies PnL](PnL_days.jpeg)
 
 
 
@@ -161,4 +161,5 @@ uv sync
 
 # 3) Run
 uv run python main.py
+
 
