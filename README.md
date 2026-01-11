@@ -15,7 +15,7 @@ This work is largely inspired by a reference thesis used throughout the project 
 
 ### Optimized D+1 Schedule
 An example of a day-ahead optimized schedule (January 15, 2021):
-![Optimized D+1 Schedule](images/Optim_Schedule.jpeg "Optimized D+1 Schedule")
+![Optimized D+1 Schedule](Optim_Schedule.jpeg)
 
 ### Strategies PnL Details
 Details of three strategies PnL (January 15, 2021):
@@ -161,3 +161,4 @@ uv sync
 
 # 3) Run
 uv run python main.py
+
